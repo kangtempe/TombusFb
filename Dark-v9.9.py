@@ -90,7 +90,7 @@ def loginSC():
 	print"\033[1;97mLogin Sc nya dulu njing -_-\n"
         username = raw_input("\033[1;96m[★] \033[1;97musername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[★] \033[1;97mPassword \033[1;91m: \033[1;92m")
-	if username =="Thex" and password =="Cyber":
+	if username =="kawan" and password =="anjing":
 		print"\033[1;96m[✓] \033[1;92mLogin success"
 		time.sleep(1)
 		login()
