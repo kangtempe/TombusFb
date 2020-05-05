@@ -18,7 +18,7 @@ $ls
 
 $cd TombusFb
 
-$python2 Tombus.py
+$python2 tombus.sh
 
 
 Download Lisensinya Disini : 
