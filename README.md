@@ -12,7 +12,7 @@ $pip2 install mechanize
 
 $pip2 install requests
 
-$git clone https://github.com/kangcoli/TombusFb
+$git clone https://github.com/kangtempe/TombusFb
 
 $ls
 
@@ -21,4 +21,4 @@ $cd TombusFb
 $python2 Tombus.py
 
 
-Download Lisensinya Disini : https://autoratio.com/ognC
+Download Lisensinya Disini : 
